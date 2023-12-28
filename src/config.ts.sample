@@ -1,0 +1,11 @@
+/**
+ * ここに firebase のアプリの設定を書いてください
+ */
+export const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
+};
